@@ -1,6 +1,6 @@
 # App Layout
 
-A new Flutter project.
+Programa desenvolvido para a matéria desenvolvimento WEB, módulo 2 do curso Talento Tech.
 
 ## Getting Started
 
